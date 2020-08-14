@@ -1,1 +1,1 @@
-WebAT (Web Automation Tester) - A open source project which utilizing Selenium WebDriver API! Our main goal is to create an easy to use and configurable tool for both Windows and Mac OS based computer for web page automation testing.
+WebAT (Web Automation Tester) - A open source project which utilizing Selenium WebDriver API! My main goal is to create an easy to use and configurable tool for both Windows and Mac OS based computer for web page automation testing.
