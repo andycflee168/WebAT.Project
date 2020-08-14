@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "default",
+        "description" : "Search keyword",
+        "browser" : "chrome",
+        "url" : "https://www.google.com",
+        "quitBrowserAfter" : true,
+        "actions": [
+            { "action" : "findElement", "findBy": "cssSelector", "value" : "input.gLFyf.gsfi"},
+            { "action" : "sendKeys", "value" : "Hi!", "keys": "Enter"}
+        ]
+    },
+    {
+        "id" : 2,
+        "name" : "default",
+        "description" : "Search keyword",
+        "browser" : "chrome",
+        "url" : "https://www.google.com/",
+        "quitBrowserAfter" : true,
+        "actions": [
+            { "action" : "findElement", "findBy": "id", "value" : "uh-search-box"},
+            { "action" : "sendKeys", "value" : "Yahoo!", "keys": "Enter"}
+        ]
+    }
+    
+]
